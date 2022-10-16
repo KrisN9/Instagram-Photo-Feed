@@ -17,7 +17,7 @@ div.post {
     margin-top: 10px;
 }
 div.post img {
-    width: 100px;
+    width: 100%;
 }
 div.post .post-header div:first-child{
     display: inline-block;
@@ -37,4 +37,12 @@ div.post h2, div.post p {
 div.container {
     width: 600px;
     margin: auto;
+}
+span {
+    float: right;
+    color: gray;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
