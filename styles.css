@@ -40,6 +40,7 @@ div.container {
 }
 span {
     float: right;
+    padding: 15px;
     color: gray;
 }
 img {
